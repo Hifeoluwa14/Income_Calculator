@@ -1,5 +1,5 @@
 from SubPackage import MySubscripts
-from SubPackage import income
+from SubPackage import incomescript
 
 
 
@@ -15,4 +15,4 @@ basic_income = MySubscript.wages_function()
 
 overtime_income = MySubscript.overtime_amount()
  
-income.income_calculator(tax_period, personal_allowance,pension_percentage,basic_income,overtime_income, overtime_pension)
+incomescript.income_calculator(tax_period, personal_allowance,pension_percentage,basic_income,overtime_income, overtime_pension)
