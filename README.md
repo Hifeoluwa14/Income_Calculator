@@ -62,9 +62,11 @@ Gross Income: £3500.00
 
 Pension Contribution: £175.00
 
-Income Tax: £310.00
+Income Tax: £456.00
 
-National Insurance: £275.00
+National Insurance: £182.16
 
-Take-Home Pay: £2740.00
+Take-Home Pay: £2687.34
 
+Below is the Picture representaion of code output in Command Prompt as the example above
+![Tax Calculator](https://github.com/user-attachments/assets/4273d26d-5043-4ec3-ad40-9752ceadd695)
