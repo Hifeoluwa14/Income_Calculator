@@ -1,5 +1,13 @@
 # Income Calculator
 This is a Python-based tool to estimate take-home pay by calculating deductions such as income tax, pension, and national insurance based on earnings and tax code.
+## Table of Content
+-[Overview](overview)
+-[Research Phase](reseacrh-phase)
+-[Features](features-of-income-calculator-python-tool)
+-[Development Phase](development-phase)
+-[Examples](examples)
+
+
 
 ## Overview
 Many individuals struggle with budgeting due to uncertainty about their take-home pay before receiving their payslip. This tool was created to solve that problem by giving users a clear breakdown of their income and deductions for any given period.
@@ -49,7 +57,7 @@ The tool is broken into modular functions that guide the user through the calcul
 8. **income_calculator**: This is the core function that pulls data from all the above functions to compute deductions for **pension**, **national insurance**, and **income tax**. It then provides the user with their estimated **take-home pay** for the selected period.
 
 
-### Example
+### Examples
 
 - Enter your pay period (weekly/monthly): monthly
 - Enter your basic monthly wage: 3000
